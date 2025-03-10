@@ -1,0 +1,20 @@
+{
+  "name": "jd.boiv.in.os",
+  "version": "1.0.0",
+  "displayName": "OS",
+  "description": "OS / Platforms / Devices utility functions for Unity",
+  "dependencies": {
+    
+  },
+  "keywords": [
+    "os",
+    "platforms",
+    "devices",
+    "utility"
+  ],
+  "author": {
+    "name": "Jean-Denis Boivin",
+    "email": "jd@boiv.in",
+    "url": "https://jd.boiv.in"
+  }
+}
