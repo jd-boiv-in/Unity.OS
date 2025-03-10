@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "displayName": "OS",
   "description": "OS / Platforms / Devices utility functions for Unity",
+  "license": "MIT",
   "dependencies": {
     
   },
